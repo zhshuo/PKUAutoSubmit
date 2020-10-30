@@ -4,6 +4,7 @@
 
 
 ## 立足老闵行，解放五角场！！！！！！！！！！！
+# 最后一天 下班了！
 感谢 [hayschan](https://github.com/hayschan) 撰写的[使用文档](https://haysc.tech/2020/10/17/pku-auto-beian/)，强烈推荐在使用本项目前阅读。
 
 ## What did I do
